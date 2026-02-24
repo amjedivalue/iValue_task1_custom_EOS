@@ -670,5 +670,17 @@
   "translatable": 0,
   "unique": 0,
   "width": null
- }
+ },
+ {
+  "doctype": "Custom Field",
+  "dt": "Leave Allocation",
+  "name": "Leave Allocation-extra_days",
+  "fieldname": "extra_days",
+  "label": "Extra Days",
+  "fieldtype": "Float",
+  "insert_after": "total_leaves_allocated",
+  "precision": "2",
+  "default": "0"
+}
+
 ]
